@@ -1,5 +1,5 @@
 // Date : 04.12.2016
-// Author : Abhi & Siddharth
+// Author : Siddharth
 // Description : LSB Image stegnography
 
 /* Header file */
